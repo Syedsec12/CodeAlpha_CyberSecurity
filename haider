@@ -1,0 +1,67 @@
+# 🔐 CodeAlpha Cyber Security Internship
+
+This repository contains the tasks completed during my Cyber Security Internship at CodeAlpha. The internship focused on practical implementation of cybersecurity concepts including network analysis and phishing awareness.
+
+---
+
+## 📌 Tasks Completed
+
+### ✅ Task 1: Basic Network Sniffer
+- Developed a Python-based network sniffer using Scapy
+- Captured live network packets
+- Extracted:
+  - Source IP address
+  - Destination IP address
+  - Protocol type (TCP/UDP)
+- Helped understand how data flows in a network
+
+---
+
+### ✅ Task 2: Phishing Awareness Training
+- Created a professional PowerPoint presentation
+- Covered:
+  - What is phishing
+  - Types of phishing attacks
+  - Social engineering techniques
+  - Real-world examples
+  - Prevention methods
+
+---
+
+## 🛠️ Tools & Technologies Used
+- Python
+- Scapy Library
+- Wireshark (optional)
+- Microsoft PowerPoint
+- Microsoft Word
+
+---
+
+## 📂 Project Files
+- `sniffer.py` → Python code for network sniffing
+- `Report.docx / Report.pdf` → Internship report with screenshots
+- `Phishing_Awareness.pptx` → Presentation slides
+- `Screenshots` → Output images
+
+---
+
+## 🎯 Learning Outcomes
+- Understanding of network packet structure
+- Basics of TCP/IP protocols
+- Awareness of phishing and cyber threats
+- Hands-on experience with Python in cybersecurity
+
+---
+
+## 🚀 Conclusion
+This internship provided practical exposure to cybersecurity concepts and improved my technical and analytical skills in network security and threat awareness.
+
+---
+
+## 🔗 Author
+**Your Name Here**
+
+---
+
+## ⭐ Acknowledgment
+Thanks to CodeAlpha for providing this opportunity to learn and grow in the field of Cyber Security.
